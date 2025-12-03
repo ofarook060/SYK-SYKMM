@@ -3,52 +3,41 @@
     <string name="app_name">SYKMM</string>
 
     <!-- other -->
-    <string name="nav_header">abbas ghasemi</string>
-    <string name="box_name">دسته بندی مطالب</string>
-    <string name="comment_name">دیدگاه های پست</string>
-    <string name="page_name">برگه ها</string>
-    <string name="mark_name">نشانه ها</string>
-    <string name="empty">موردی برای نمایش وجود ندارد.</string>
-    <string name="not_found">موردی برای نمایش پیدا نشد!.</string>
-    <string name="search">جستجو</string>
+    <string name="nav_header">SYK Services</string>
+    <string name="box_name">Category </string>
+    <string name="comment_name">Comments </string>
+    <string name="page_name">Page</string>
+    <string name="mark_name">Bookmark</string>
+    <string name="empty">Empty</string>
+    <string name="not_found">Not Found </string>
+    <string name="search">Search</string>
 
     <!-- post item -->
-    <string name="comments">دیدگاه ها</string>
-    <string name="open_in">باز کردن در مرورگر</string>
-    <string name="send_text">ارسال متن</string>
-    <string name="copy_text">کپی متن</string>
-    <string name="send_link">اشتراک لینک</string>
-    <string name="copy_link">کپی لینک</string>
+    <string name="comments">Comment</string>
+    <string name="open_in">Open In</string>
+    <string name="send_text">Send</string>
+    <string name="copy_text">Copy</string>
+    <string name="send_link">Share</string>
+    <string name="copy_link">Copy</string>
 
     <!-- menu item -->
-    <string name="menu">منو</string>
-    <string name="home">خانه</string>
-    <string name="boxs">دسته ها</string>
-    <string name="share">اشتراک برنامه</string>
-    <string name="nav_about">درباره ما</string>
-    <string name="nav_info">ویژگی های برنامه</string>
-    <string name="book_mark">نشان شده ها</string>
+    <string name="menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="boxs">Box</string>
+    <string name="share">Share</string>
+    <string name="nav_about">About</string>
+    <string name="nav_info">Info</string>
+    <string name="book_mark">Bookmarks</string>
 
-    <string name="instagram">اینستاگرام</string>
-    <string name="telegram">تلگرام</string>
-    <string name="service_text">شرایط استفاده</string>
-    <string name="msg_about">
-تمامی حقوق این اپلیکیشن متعلق به عباس قاسمی می باشد.
-\n\n
-Copy Right 2019
-\n
-برنامه نویس: عباس قاسمی
-    </string>
-    <string name="msg_service">
-تمامی حقوق این اپلیکیشن متعلق به عباس قاسمی می باشد.
-\n\n
-Copy Right 2019
-\n
-برنامه نویس: عباس قاسمی
+    <string name="instagram">Instagram</string>
+    <string name="telegram">Telegram</string>
+    <string name="service_text">Service</string>
+    <string name="msg_about">About</string>
+    <string name="msg_service">Message
     </string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="try_again">بررسی مجدد</string>
+    <string name="try_again">Try Again</string>
 
 </resources>

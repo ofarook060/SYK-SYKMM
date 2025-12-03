@@ -19,7 +19,7 @@ import com.syk.sykmm.ui.MainActivity;
 
 public class BuildApp {
 
-    public static String authorName = "abbas ghasemi";
+    public static String authorName = "sykmm";
     public static String mail = "";
     public static String phone = "";
     public static String telegram = "https://t.me/telegram"; // می تونی آدرس پیامرسان یا سایت های دیگری مثل آپارات ، سایت خودتون و ... را قرار دهی.
