@@ -1,0 +1,9 @@
+/*
+ * Copyright (C) 2019  All rights reserved for FaraSource (ABBAS GHASEMI)
+ * https://farasource.com
+ */
+package com.syk.sykmm.ui.fragment;
+
+public interface FinishListener {
+    boolean finishFragment();
+}
